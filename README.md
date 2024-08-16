@@ -1,3 +1,4 @@
 # randompokemongenerator-images
 images of randompokemongenerator
-visit images by https://happydrew.github.io/randompokemongenerator-images/{image path}
+visit images by https://happydrew.github.io/randompokemongenerator-images/
+
